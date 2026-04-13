@@ -1,0 +1,14 @@
+{
+  "name": "structure-builder-screenshots",
+  "private": true,
+  "scripts": {
+    "dev": "sanity dev"
+  },
+  "dependencies": {
+    "sanity": "latest",
+    "@sanity/vision": "latest",
+    "react": "^19",
+    "react-dom": "^19",
+    "styled-components": "^6.1.15"
+  }
+}
